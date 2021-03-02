@@ -1,0 +1,8 @@
+C:\RabbitMQ-SAGA\Common\rabbitmq\rabbitmq\bin\Debug\netcoreapp3.1\rabbitmq.deps.json
+C:\RabbitMQ-SAGA\Common\rabbitmq\rabbitmq\bin\Debug\netcoreapp3.1\rabbitmq.dll
+C:\RabbitMQ-SAGA\Common\rabbitmq\rabbitmq\bin\Debug\netcoreapp3.1\rabbitmq.pdb
+C:\RabbitMQ-SAGA\Common\rabbitmq\rabbitmq\obj\Debug\netcoreapp3.1\rabbitmq.AssemblyInfoInputs.cache
+C:\RabbitMQ-SAGA\Common\rabbitmq\rabbitmq\obj\Debug\netcoreapp3.1\rabbitmq.AssemblyInfo.cs
+C:\RabbitMQ-SAGA\Common\rabbitmq\rabbitmq\obj\Debug\netcoreapp3.1\rabbitmq.csproj.CoreCompileInputs.cache
+C:\RabbitMQ-SAGA\Common\rabbitmq\rabbitmq\obj\Debug\netcoreapp3.1\rabbitmq.dll
+C:\RabbitMQ-SAGA\Common\rabbitmq\rabbitmq\obj\Debug\netcoreapp3.1\rabbitmq.pdb

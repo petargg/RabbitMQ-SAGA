@@ -1,0 +1,8 @@
+C:\RabbitMQ-SAGA\Common\rabbitmq-message\bin\Debug\netcoreapp3.1\rabbitmq-message.deps.json
+C:\RabbitMQ-SAGA\Common\rabbitmq-message\bin\Debug\netcoreapp3.1\rabbitmq-message.dll
+C:\RabbitMQ-SAGA\Common\rabbitmq-message\bin\Debug\netcoreapp3.1\rabbitmq-message.pdb
+C:\RabbitMQ-SAGA\Common\rabbitmq-message\obj\Debug\netcoreapp3.1\rabbitmq-message.AssemblyInfoInputs.cache
+C:\RabbitMQ-SAGA\Common\rabbitmq-message\obj\Debug\netcoreapp3.1\rabbitmq-message.AssemblyInfo.cs
+C:\RabbitMQ-SAGA\Common\rabbitmq-message\obj\Debug\netcoreapp3.1\rabbitmq-message.csproj.CoreCompileInputs.cache
+C:\RabbitMQ-SAGA\Common\rabbitmq-message\obj\Debug\netcoreapp3.1\rabbitmq-message.dll
+C:\RabbitMQ-SAGA\Common\rabbitmq-message\obj\Debug\netcoreapp3.1\rabbitmq-message.pdb
